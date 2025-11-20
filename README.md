@@ -42,3 +42,5 @@ python live_digit_recognition.py
 [Reporte CV en HTML](live_digit_recognition.html)
 
 [Modelo preguardado](https://github.com/NelsonAbad/Proyecto-Redes-Neuronales/blob/ab61abdddc01b29103dfb95ed9fcb7830b8c1389/final_cnn_model.h5)
+
+[Power Point](https://docs.google.com/presentation/d/1cWwi7JbOopC0Y_MVrtdIHg6UGdkrtRl42wg_hz0lWWo/edit?usp=sharing)
