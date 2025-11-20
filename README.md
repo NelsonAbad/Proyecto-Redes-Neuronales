@@ -4,12 +4,14 @@ Este proyecto implementa y compara diferentes arquitecturas de redes neuronales 
 Además, se desarrolla un módulo de predicción en vivo con cámara web (OCR simple) que permite identificar dígitos escritos en tiempo real.
 
 📁CNNproyecto/
-│
-├── Numbers/                 # Dataset propio (Train/Test con carpetas 0–9)
-├── Proyecto_P3.ipynb        # Notebook principal con todo el desarrollo
-├── final_cnn_model.h5       # Mejor modelo entrenado
-├── live_digit_recognition.py# OCR en vivo con cámara web
-└── README.md                # Este archivo
+Numbers/
+Dataset propio con las carpetas Train/ y Test/, cada una con subcarpetas 0 a 9.
+Proyecto_P3.ipynb
+Notebook principal donde se desarrolla todo el entrenamiento, comparación de modelos y análisis.
+final_cnn_model.h5
+Modelo final entrenado elegido como el mejor.
+live_digit_recognition.py
+Script para la predicción en vivo utilizando la cámara web (OCR de dígitos escritos a mano).
 
 Objetivos Principales
 Preprocesar un dataset real de imágenes de dígitos escritos a mano.
@@ -44,3 +46,5 @@ python live_digit_recognition.py
 [Modelo preguardado](https://github.com/NelsonAbad/Proyecto-Redes-Neuronales/blob/ab61abdddc01b29103dfb95ed9fcb7830b8c1389/final_cnn_model.h5)
 
 [Power Point](https://docs.google.com/presentation/d/1cWwi7JbOopC0Y_MVrtdIHg6UGdkrtRl42wg_hz0lWWo/edit?usp=sharing)
+
+[Video](https://drive.google.com/file/d/1Q1pOzHjrkdp4KXi3RKYDPOZmgRyE6kot/view?usp=sharing)
